@@ -20,7 +20,7 @@ import java.util.Optional;
 public class JournalEntryService {
 
 
-    
+
     @Autowired
     private JournalEntryRepository journalEntryRepository;
 
